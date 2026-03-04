@@ -7,13 +7,13 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #301414;
+            background: linear-gradient(to right, #301414, #000000);
             margin: 0;
             padding: 0;
         }
 
         header {
-            background-color: #000000;
+            background: linear-gradient(to right, #301414, #000000);
             color: #c29fa1;
             padding: 15px;
             text-align: center;
@@ -24,7 +24,7 @@
         }
 
         .card {
-            background-color: white;
+           background: linear-gradient(to right, white, #fff5f5);
             padding: 15px;
             margin-bottom: 15px;
             border-radius: 8px;
@@ -78,7 +78,7 @@
 <main>
 
     <div class="card">
-        <h2>Sobre o aluno</h2>
+        <h1>Sobre o aluno</h2>
         <p>Nome:Miguel, Luiz, Josué e Ana Luiza</p>
         <p>Turma:301</p>
         <p>Data: 25 / 02 / 2026</p>
@@ -104,7 +104,7 @@
 <div class="card">
 <center>
         <h2>Buggati Veron</h2>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyAPXqPqu5VBGzsVZPykRPWTQRw2agTEC6g&s">
+        <img src="https://www.automaistv.com.br/wp-content/uploads/2026/01/Bugatti-Veyron-FKP-Hommage-Dianteira-1320x712.webp">
 </center>
     </div>
 
